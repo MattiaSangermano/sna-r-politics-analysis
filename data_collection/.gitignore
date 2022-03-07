@@ -1,0 +1,10 @@
+chunks_visited.yaml
+data/GS.gexf
+data/chunks
+data/data.json
+data/geo.json
+data/labels.json
+data/users.json
+test.py
+models/
+.DS_Store

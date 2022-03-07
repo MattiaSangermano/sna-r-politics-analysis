@@ -1,0 +1,5 @@
+networkx
+matplotlib
+powerlaw
+numpy
+node_conformity
